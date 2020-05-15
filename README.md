@@ -5,7 +5,7 @@ Object detection is a technique of computer vision and image processing that dea
 ├── _Architechtures_       
 │ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└──It contains the Network Diagrams     
 ├── Model Summary
-│         └──It contains the model summaries    
+│ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└──It contains the model summaries    
 ├── _Notebooks_     
 │ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└──It contains the Colab Notebooks of models        
 ├── _Results_                   
