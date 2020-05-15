@@ -34,12 +34,11 @@ Tensorflow 1.x
 # Models
 The following three models have been trained.  
 # 1.RetinaNet
-![UNET](Images/UNET.PNG)
+![RetinaNet](https://github.com/arslanamin14/Object-Detection/blob/master/Architectures/retinanet.png)
 # 2.YOLOV3
-![SEGNET](Images/SEGNET.PNG)
+![YoloV3](https://github.com/arslanamin14/Object-Detection/blob/master/Architectures/yolo.png)
 # 3.Faster RCNN
-![DeepLabv3Plus](Images/DeepLabV3Plus.PNG)
-![DeepLabv3+](Images/DeepLabV3+.PNG)
+![Faster RCNN](https://github.com/arslanamin14/Object-Detection/blob/master/Architectures/faster%20rcnn.png)
 # Quantitative Results
 The results are shown below
    # Training
