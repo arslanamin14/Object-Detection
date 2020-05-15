@@ -3,7 +3,7 @@ Object detection is a technique of computer vision and image processing that dea
 
 # Folders
 ├── _Architechtures_       
-│ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└──It contains the Network Diagrams 
+│ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└──It contains the Network Diagrams   
 ├── _Notebooks_     
 │ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└──It contains the Colab Notebooks of models       
 ├── _Trained Model Weights_     
