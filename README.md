@@ -37,25 +37,26 @@ The following three models have been trained.
 ![Faster RCNN](https://github.com/arslanamin14/Object-Detection/blob/master/Architectures/faster%20rcnn.png)
 # Quantitative Results
 The results are shown below
+
 # RetinaNet-Resnet50
-3678 instances of class car with average precision: 0.7160
-446 instances of class truck with average precision: 0.2215
-874 instances of class van with average precision: 0.2513
-222 instances of class longvehicle with average precision: 0.1196
-366 instances of class bus with average precision: 0.1649
-161 instances of class airliner with average precision: 0.6309
-25 instances of class propeller with average precision: 0.0780
-49 instances of class trainer with average precision: 0.0998
-103 instances of class chartered with average precision: 0.2433
-8 instances of class fighter with average precision: 0.0104
-85 instances of class other with average precision: 0.0039
-83 instances of class stairtruck with average precision: 0.0007
-55 instances of class pushback with average precision: 0.0000
-9 instances of class helicopter with average precision: 0.0181
-1820 instances of class boat with average precision: 0.6426
-Inference time for 747 images: 0.3017
-mAP using the weighted average of precisions among classes: 0.5439
-mAP: 0.2134
+3678 instances of class car with average precision: 0.7160  
+446 instances of class truck with average precision: 0.2215  
+874 instances of class van with average precision: 0.2513  
+222 instances of class longvehicle with average precision: 0.1196  
+366 instances of class bus with average precision: 0.1649  
+161 instances of class airliner with average precision: 0.6309  
+25 instances of class propeller with average precision: 0.0780  
+49 instances of class trainer with average precision: 0.0998  
+103 instances of class chartered with average precision: 0.2433  
+8 instances of class fighter with average precision: 0.0104  
+85 instances of class other with average precision: 0.0039  
+83 instances of class stairtruck with average precision: 0.0007  
+55 instances of class pushback with average precision: 0.0000  
+9 instances of class helicopter with average precision: 0.0181  
+1820 instances of class boat with average precision: 0.6426  
+Inference time for 747 images: 0.3017  
+mAP using the weighted average of precisions among classes: 0.5439  
+mAP: 0.2134  
 
 # RetinaNet-Vgg16
 3678 instances of class car with average precision: 0.8276
