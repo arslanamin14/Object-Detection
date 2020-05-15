@@ -1,6 +1,5 @@
 # Object-Detection
-# Semantic Segmentation
-Semantic segmentation is a computer vision technique that enables computers to discern one region in an image from another, based on the semantic context of that region. Semantic segmentation has many applications in diverse fields like medicine, Autonomous driving and agriculture.
+Object detection is a technique of computer vision and image processing that deals with detecting instances of semantic objects of a certain class such as humans, buildings and cars in digital images and videos.
 
 # Folders
 ├── _Code_     
@@ -23,10 +22,8 @@ Semantic segmentation is a computer vision technique that enables computers to d
 │ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└──It contains the pre-trained model weights
 
 # Dataset
-The dataset used for Semantic Segmentation is  Monuseg dataset which contains multi organ tissue images with the ground truth segmentation masks. The dataset used for training the and testing the model can be downloaded from this [link](https://github.com/nauyan/Segmentation/blob/master/Datasets/MonuSeg-20200319T073151Z-001.zip) and information about dataset is available on this [link](https://monuseg.grand-challenge.org/Data/).
-
-# Pre-processing
-This datset contains of Tissue Image and its corrresponding Groundtruth Mask of 1000x1000 resolution. To load these images with more than batch size of 2 is difficult to the GPU. To overcome this problem, patches of 256x256 are generaated for every Tissue Image and its corrresponding Groundtruth Mask. To create patches of your own choice you can use the file in the  [link](https://github.com/arslanamin14/Image-Segmentation/blob/master/Patches/Patch.ipynb)
+The dataset used for Object detection is Satellite Imagery Multi-vehicles Dataset (SIMD). It comprises 5,000 images of resolution 1024
+x 768 and collectively contains 45,303 objects in 15 different classes of vehicles including cars,trucks, buses, long vehicles, various types of aircrafts and boats. The source images are taken from public satellite imagery available in Google Earth and contain images of multiple locations from seven countries.
 
 # Requirements
 Keras 2.x  
@@ -36,11 +33,11 @@ Tensorflow 1.x
 
 # Models
 The following three models have been trained.  
-# 1.UNET
+# 1.RetinaNet
 ![UNET](Images/UNET.PNG)
-# 2.SEGNET
+# 2.YOLOV3
 ![SEGNET](Images/SEGNET.PNG)
-# 3.Deep Lab V3 Plus
+# 3.Faster RCNN
 ![DeepLabv3Plus](Images/DeepLabV3Plus.PNG)
 ![DeepLabv3+](Images/DeepLabV3+.PNG)
 # Quantitative Results
