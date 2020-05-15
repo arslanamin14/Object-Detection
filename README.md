@@ -116,12 +116,12 @@ mean average precision is 0.424
 Some predicted results are shown below.
 # RetinaNet-Resnet50
 ![RetinaNet-Resnet50](https://github.com/arslanamin14/Object-Detection/blob/master/Results/RetinaNet-Resnet50/Predicted%201.PNG)
-# 1.RetinaNet-Vgg16
+# RetinaNet-Vgg16
 ![RetinaNet-Vgg16](https://github.com/arslanamin14/Object-Detection/blob/master/Results/RetinaNet-Vgg16/Predicted%20%201.PNG)  
-# 2.YOLOV3
+# YOLOV3
 ![YoloV3](https://github.com/arslanamin14/Object-Detection/blob/master/Results/YoloV3/0011%20(1).jpg)
 ![YoloV31](https://github.com/arslanamin14/Object-Detection/blob/master/Results/YoloV3/0035%20(1)%20(2).jpg)
-# 3.Faster RCNN
+# Faster RCNN
 ![Faster RCNN](https://github.com/arslanamin14/Object-Detection/blob/master/Results/FasterRCNN/Predicted%201.PNG)
 ![Faster RCNN 2](https://github.com/arslanamin14/Object-Detection/blob/master/Results/FasterRCNN/Predicted%202.PNG)
 ![Faster RCNN 3](https://github.com/arslanamin14/Object-Detection/blob/master/Results/FasterRCNN/Predicted%203.PNG)
